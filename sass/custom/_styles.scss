@@ -1,2 +1,18 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+#hero {
+  height: 200px;
+}
+#hero-inner {
+  margin-top:0px;
+}
+#front-wrapper {
+  margin-top: 300px;
+}
+#sub-hero {
+ 
+}
+
+.image img {
+  max-width:550px;
+}
