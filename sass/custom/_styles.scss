@@ -1,5 +1,8 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+body {
+  font-family: "Segoe UI Light", "Helvetica Neue", 'RobotoLight', "Segoe UI", "Segoe WP", sans-serif;
+}
 #hero {
   height: 200px;
 }
@@ -12,7 +15,18 @@
 #sub-hero {
  
 }
-
 .image img {
-  max-width:550px;
+  max-width:500px;
+}
+h2 {
+  font-weight: 100;
+}
+nav {
+  font-size:30px;
+  font-weight: 100;
+}
+nav ul li {
+  display:block;
+  float:left;
+  margin-right: 24px;
 }
