@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[teirs - uzkopšanas un tīrīšanas serviss]]></title>
-  <link href="http://teirs.github.com/atom.xml" rel="self"/>
-  <link href="http://teirs.github.com/"/>
-  <updated>2012-10-11T23:07:51+03:00</updated>
-  <id>http://teirs.github.com/</id>
+  <link href="http://teirs.lv/atom.xml" rel="self"/>
+  <link href="http://teirs.lv/"/>
+  <updated>2012-10-11T23:16:05+03:00</updated>
+  <id>http://teirs.lv/</id>
   <author>
     <name><![CDATA[Jānis Krivtežs]]></name>
     
