@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://teirs.github.com
+url: http://teirs.lv
 title: teirs - uzkopšanas un tīrīšanas serviss
 subtitle: uzkopšanas un tīrīšanas serviss
 author: Jānis Krivtežs
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-35512725-1
 
 # Facebook Like
 facebook_like: false
